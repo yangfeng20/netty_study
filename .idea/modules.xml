@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/bio.iml" filepath="$PROJECT_DIR$/bio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netty-demo01.iml" filepath="$PROJECT_DIR$/netty-demo01.iml" />
       <module fileurl="file://$PROJECT_DIR$/netty_study.iml" filepath="$PROJECT_DIR$/netty_study.iml" />
       <module fileurl="file://$PROJECT_DIR$/nio.iml" filepath="$PROJECT_DIR$/nio.iml" />
     </modules>

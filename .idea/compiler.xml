@@ -10,10 +10,12 @@
         <outputRelativeToContentRoot value="true" />
         <module name="bio" />
         <module name="nio" />
+        <module name="netty-demo01" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="bio" target="1.8" />
+      <module name="netty-demo01" target="1.8" />
       <module name="nio" target="1.8" />
     </bytecodeTargetLevel>
   </component>
